@@ -1,4 +1,4 @@
-# Home Temperature Controll Project with LCD
+# Home Temperature Control Project with LCD
 
 This real-world project monitors temperature using a DHT sensor, controls a fan via a relay, and displays status on a 16x2 LCD. It includes:
 
