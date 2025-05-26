@@ -12,6 +12,6 @@ This repository contains fundamental examples and a real-world application using
 6. [6_Interrupt_Handling](./6_Interrupt_Handling) — Handling interrupts and notifying tasks
 7. [7_Static_Memory](./7_Static_Memory) — Creating tasks with statically allocated memory
 8. [8_Timers](./8_Timers) — Using FreeRTOS software timers
-9. [9_HomeTemperatureControll_Project_LCD](./9_HomeTemperatureControll_Project_LCD) — Real-world temperature control project with 16x2 LCD
+9. [9_HomeTemperatureControl_Project_LCD](./9_HomeTemperatureControl_Project_LCD) — Real-world temperature control project with 16x2 LCD
 
 Each folder includes code and explanation to help you get started.
