@@ -1,5 +1,8 @@
 #include <Arduino.h>
 
+// Define Built-in LED pin
+#define LED_BUILTIN 2
+
 // Task to blink the built-in LED
 void TaskBlink(void *pvParameters) {
   // Set the LED pin as output
