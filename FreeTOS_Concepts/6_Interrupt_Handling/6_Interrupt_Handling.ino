@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 // Define the button pin
-#define BUTTON_PIN 0
+#define BUTTON_PIN 1
 
 // Handle for the task that will wait for the interrupt
 TaskHandle_t TaskHandle = NULL;
